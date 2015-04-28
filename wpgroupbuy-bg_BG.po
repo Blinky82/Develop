@@ -1,0 +1,2113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPGroupbuy v2.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-07-19 00:00-0500\n"
+"PO-Revision-Date: 2015-01-27 21:54:39+0000\n"
+"Last-Translator: budnikov <budnikov@abv.bg>\n"
+"Language-Team: Scott Allan Wallick <s@scottwallick.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: \n"
+"X-Textdomain-Support: yes"
+
+#: wpg-framework/account/view.php:14
+#: wpg-framework/account/view.php:43
+#@ WPGroupbuy
+msgid "Edit"
+msgstr "Редактирай"
+
+#: wpg-framework/checkout/billing-review.php:7
+#: wpg-framework/checkout/shipping-review.php:7
+#@ WPGroupbuy
+msgid "Name"
+msgstr "Име"
+
+#: wpg-framework/deals/single.php:265
+#: wpg-framework/inc/loop-merchant.php:8
+#: wpg-framework/merchant/business.php:43
+#@ WPGroupbuy
+msgid "Website"
+msgstr "Сайт"
+
+#: template-currentdeals-location.php:15
+#: template-currentdeals.php:14
+#: template-donedeals-location.php:15
+#: template-donedeals.php:15
+#: template-futuredeals-location.php:15
+#: template-futuredeals.php:15
+#@ WPGroupbuy
+msgid "Pages:"
+msgstr "Страници"
+
+#: comments.php:4
+#@ wpgroupbuy
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:13
+#, php-format
+#@ default
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:23
+#@ wpgroupbuy
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:26
+#@ wpgroupbuy
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:26
+#@ WPGroupbuy
+msgid "&copy;"
+msgstr ""
+
+#: footer.php:26
+#, php-format
+#@ WPGroupbuy
+msgid "%s.  Всички права запазени. Прочетете нашите <a href=\"/terms-of-use/\">Обши условия.</a>"
+msgstr ""
+
+#: footer.php:27
+#@ WPGroupbuy
+msgid "WordPress Groupbuy Theme"
+msgstr ""
+
+#: footer.php:38
+#@ WPGroupbuy
+msgid "Back on Top"
+msgstr ""
+
+#: functions/filters.php:8
+#@ WPGroupbuy
+msgid "Headings Font Face"
+msgstr ""
+
+#: functions/filters.php:15
+#@ WPGroupbuy
+msgid "Body/Default Font Face"
+msgstr ""
+
+#: functions/filters.php:22
+#@ WPGroupbuy
+msgid "Site Body"
+msgstr ""
+
+#: functions/filters.php:30
+#@ WPGroupbuy
+msgid "Footer Text"
+msgstr ""
+
+#: functions/filters.php:37
+#@ WPGroupbuy
+msgid "Headings"
+msgstr ""
+
+#: functions/filters.php:44
+#@ WPGroupbuy
+msgid "A Link"
+msgstr ""
+
+#: functions/filters.php:51
+#@ WPGroupbuy
+msgid "Header Background"
+msgstr ""
+
+#: functions/filters.php:58
+#@ WPGroupbuy
+msgid "Header Bottom Background"
+msgstr ""
+
+#: functions/filters.php:65
+#: wpg-framework/inc/home-navigation.php:151
+#: wpg-framework/inc/navigation.php:146
+#@ WPGroupbuy
+msgid "Main Menu"
+msgstr ""
+
+#: functions/filters.php:72
+#@ WPGroupbuy
+msgid "Sub-menu"
+msgstr ""
+
+#: functions/filters.php:79
+#@ WPGroupbuy
+msgid "Sub-menu hover"
+msgstr ""
+
+#: functions/filters.php:86
+#@ WPGroupbuy
+msgid "Sub-menu Solid"
+msgstr ""
+
+#: functions/filters.php:93
+#@ WPGroupbuy
+msgid "Account Button"
+msgstr ""
+
+#: functions/filters.php:100
+#@ WPGroupbuy
+msgid "Login/Cart Button"
+msgstr ""
+
+#: functions/filters.php:108
+#@ WPGroupbuy
+msgid "Buy Now Button"
+msgstr ""
+
+#: functions/filters.php:115
+#@ WPGroupbuy
+msgid "Sold Out Button"
+msgstr ""
+
+#: functions/filters.php:122
+#@ WPGroupbuy
+msgid "View Deal Button"
+msgstr ""
+
+#: functions/filters.php:130
+#@ WPGroupbuy
+msgid "Footer Areas"
+msgstr ""
+
+#: functions/hooks.php:24
+#@ WPGroupbuy
+msgid "Membership Required! Please login or registration."
+msgstr "Нужно е да имате акаунт! Моля, влезте в системата или се регистрирайте."
+
+#: functions/hooks.php:199
+#: functions/hooks.php:220
+#@ WPGroupbuy
+msgid "(Edit)"
+msgstr ""
+
+#: functions/hooks.php:205
+#@ WPGroupbuy
+msgid "Your comment is awaiting moderation."
+msgstr "Коментарът ви изчаква редакция."
+
+#: functions/hooks.php:220
+#, php-format
+#@ WPGroupbuy
+msgid "Tracked on %s"
+msgstr ""
+
+#: functions/shortcodes.php:1259
+#: functions/shortcodes.php:1343
+#@ wpgroupbuy
+msgid "Comments"
+msgstr ""
+
+#: functions/shortcodes.php:1260
+#@ wpgroupbuy
+msgid "Read More &rarr;"
+msgstr ""
+
+#: functions/template-tags.php:11
+#@ WPGroupbuy
+msgid "Signup to get deals sent to you!"
+msgstr "Запишете се, за да получавате сделки!"
+
+#: functions/template-tags.php:12
+#@ WPGroupbuy
+msgid "Enter your email address"
+msgstr "Напишете Вашата поща"
+
+#: functions/template-tags.php:49
+#@ WPGroupbuy
+msgid "Signup"
+msgstr "Регистрация"
+
+#: functions.php:102
+#@ WPGroupbuy
+msgid "Used "
+msgstr "Потребител"
+
+#: functions.php:140
+#@ WPGroupbuy
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:141
+#@ WPGroupbuy
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:142
+#@ WPGroupbuy
+msgid "Deal Menu"
+msgstr "Сделки"
+
+#: functions.php:221
+#@ default
+msgid "<p>This section of the website is password protected. Please enter your password to continue.</p>"
+msgstr ""
+
+#: functions.php:222
+#: wpg-framework/account/view.php:9
+#@ default
+#@ WPGroupbuy
+msgid "Password:"
+msgstr "Парола:"
+
+#: functions.php:222
+#@ default
+msgid "Submit"
+msgstr ""
+
+#: header.php:19
+#, php-format
+#@ WPGroupbuy
+msgid "Page %s"
+msgstr ""
+
+#: header.php:110
+#@ WPGroupbuy
+msgid "Close [ x ]"
+msgstr "Затвори [ x ]"
+
+#: loop.php:5
+#: search.php:17
+#@ WPGroupbuy
+msgid "Opps! We can't see what you're looking for."
+msgstr "Съжаляваме, не можем да намерим, това което търсите."
+
+#: loop.php:27
+#: search.php:38
+#: single.php:22
+#@ WPGroupbuy
+msgid "Leave a comment"
+msgstr "Напишете коментар"
+
+#: loop.php:27
+#: search.php:38
+#: single.php:22
+#@ WPGroupbuy
+msgid "1 Comment"
+msgstr "1 коментар"
+
+#: loop.php:27
+#: search.php:38
+#: single.php:22
+#@ WPGroupbuy
+msgid "% Comments"
+msgstr "% коментара"
+
+#: loop.php:50
+#: search.php:60
+#: template-currentdeals-location.php:50
+#: template-donedeals.php:43
+#: template-futuredeals-location.php:42
+#: template-futuredeals.php:37
+#: wpg-framework/inc/loop-nav.php:5
+#@ WPGroupbuy
+msgid "&larr; Previous Page"
+msgstr "&larr; Предишна страница"
+
+#: loop.php:51
+#: search.php:61
+#: template-currentdeals-location.php:49
+#: template-donedeals.php:44
+#: template-futuredeals-location.php:43
+#: template-futuredeals.php:38
+#: wpg-framework/inc/loop-nav.php:6
+#@ WPGroupbuy
+msgid "Next Page &rarr;"
+msgstr "Следваща страница &rarr;"
+
+#: searchform.php:5
+#@ WPGroupbuy
+msgid "Find Deals"
+msgstr "Намерете сделка"
+
+#: template-currentdeals.php:50
+#@ WPGroupbuy
+msgid "<span class=\"v7linkSold fixPNG mRight20\">&larr; Next Page</span>"
+msgstr "<span class=\"v7linkSold fixPNG mRight20\">&larr; Следваща страница</span>"
+
+#: template-currentdeals.php:51
+#@ WPGroupbuy
+msgid "<span class=\"v7linkSold fixPNG\">Previous Page &rarr;</span>"
+msgstr "<span class=\"v7linkSold fixPNG\">Предишна страница &rarr;</span>"
+
+#: template-donedeals-location.php:49
+#@ WPGroupbuy
+msgid "<span class=\"meta-nav\">&larr;</span> Older deals"
+msgstr "<span class=\"meta-nav\">&larr;</span> По-стари сделки"
+
+#: template-donedeals-location.php:52
+#@ WPGroupbuy
+msgid "Newer deals <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Нови сделки <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-home-2-noscroll.php:116
+#: template-home-2.php:116
+#: template-home-location-2-noscroll.php:116
+#: template-home-location-2.php:116
+#: template-home-location-noscroll.php:116
+#: template-home-location.php:116
+#: template-home-noscroll.php:122
+#: template-home.php:122
+#: wpg-framework/account/view.php:155
+#@ WPGroupbuy
+msgid "View More"
+msgstr "Виж повече"
+
+#: template-home-2-noscroll.php:149
+#: template-home-2.php:149
+#: template-home-location-2-noscroll.php:149
+#: template-home-location-2.php:149
+#: template-home-location-noscroll.php:149
+#: template-home-location.php:149
+#: template-home-noscroll.php:155
+#: template-home.php:155
+#: wpg-framework/deals/dealshome.php:42
+#: wpg-framework/deals/single.php:55
+#@ WPGroupbuy
+msgid "Bought:"
+msgstr "Купено:"
+
+#: template-home-2-noscroll.php:155
+#: template-home-2.php:155
+#: template-home-location-2-noscroll.php:155
+#: template-home-location-2.php:155
+#: template-home-location-noscroll.php:155
+#: template-home-location.php:155
+#: template-home-noscroll.php:161
+#: template-home.php:161
+#: wpg-framework/inc/loop-item-future.php:52
+#: wpg-framework/inc/loop-item.php:51
+#@ WPGroupbuy
+msgid "View"
+msgstr "Виж"
+
+#: template-home-location-noscroll.php:166
+#: template-home-location.php:166
+#: template-home-noscroll.php:172
+#: template-home.php:172
+#@ WPGroupbuy
+msgid "close"
+msgstr "затвори"
+
+#: template-home-location-noscroll.php:176
+#: template-home-location.php:176
+#: template-home-noscroll.php:182
+#: template-home.php:182
+#@ WPGroupbuy
+msgid "Read more"
+msgstr "Прочети повече"
+
+#: template-home-location-noscroll.php:189
+#: template-home-location.php:189
+#: template-home-noscroll.php:195
+#: template-home.php:195
+#: wpg-framework/deals/featureddeal.php:51
+#: wpg-framework/deals/single.php:90
+#@ WPGroupbuy
+msgid "Value"
+msgstr "Стойност"
+
+#: template-home-location-noscroll.php:195
+#: template-home-location.php:195
+#: template-home-noscroll.php:201
+#: template-home.php:201
+#: wpg-framework/deals/featureddeal.php:59
+#: wpg-framework/deals/single.php:98
+#@ WPGroupbuy
+msgid "Discount"
+msgstr "Отстъпка"
+
+#: template-home-location-noscroll.php:203
+#: template-home-location.php:203
+#: template-home-noscroll.php:209
+#: template-home.php:209
+#: wpg-framework/deals/featureddeal.php:66
+#: wpg-framework/deals/single.php:105
+#@ WPGroupbuy
+msgid "You save"
+msgstr "Спестявате"
+
+#: template-home-location-noscroll.php:229
+#: template-home-location.php:229
+#: template-home-noscroll.php:235
+#: template-home.php:235
+#: wpg-framework/deals/featureddeal.php:37
+#: wpg-framework/deals/single.php:72
+#@ WPGroupbuy
+msgid "Buy now"
+msgstr "Купи сега"
+
+#: template-home-location-noscroll.php:235
+#: template-home-location.php:235
+#: template-home-noscroll.php:241
+#: template-home.php:241
+#: wpg-framework/deals/featureddeal.php:39
+#: wpg-framework/deals/single.php:74
+#@ WPGroupbuy
+msgid "Sold out"
+msgstr "Продадено"
+
+#: template-home-location-noscroll.php:241
+#: template-home-location.php:241
+#: template-home-noscroll.php:247
+#: template-home.php:247
+#: wpg-framework/deals/featureddeal.php:41
+#: wpg-framework/deals/single.php:76
+#@ WPGroupbuy
+msgid "Unavailable"
+msgstr "Изчерпано"
+
+#: wpg-framework/account/edit-account-info.php:2
+#@ WPGroupbuy
+msgid "Account Information"
+msgstr "Информация за акаунта"
+
+#: wpg-framework/account/edit-account-notifications.php:2
+#@ WPGroupbuy
+msgid "E-Mail Nofitication"
+msgstr "E-Mail нотификация"
+
+#: wpg-framework/account/edit-account-notifications.php:3
+#@ WPGroupbuy
+msgid "You'll get below notification Email, but you can uncheck them."
+msgstr ""
+
+#: wpg-framework/account/edit-contact-info.php:2
+#@ WPGroupbuy
+msgid "Contact Information"
+msgstr "Контакти"
+
+#: wpg-framework/account/login.php:3
+#@ WPGroupbuy
+msgid "Login to your account"
+msgstr "Влезте в акаунта си"
+
+#: wpg-framework/account/login.php:7
+#: wpg-framework/checkout/login.php:6
+#@ WPGroupbuy
+msgid "Your Username"
+msgstr "Потребителско име"
+
+#: wpg-framework/account/login.php:11
+#: wpg-framework/checkout/login.php:12
+#@ WPGroupbuy
+msgid "Your Password"
+msgstr "Парола"
+
+#: wpg-framework/account/login.php:21
+#@ WPGroupbuy
+msgid "Keep me signed in"
+msgstr "Запомни ме"
+
+#: wpg-framework/account/login.php:26
+#: wpg-framework/checkout/login.php:30
+#@ WPGroupbuy
+msgid "Sign In"
+msgstr "Влезте в профила си"
+
+#: wpg-framework/account/login.php:32
+#: wpg-framework/checkout/login.php:31
+#@ WPGroupbuy
+msgid "Forgot your password&#63;"
+msgstr "Забравена парола&#63;"
+
+#: wpg-framework/account/login.php:34
+#@ WPGroupbuy
+msgid "Don&rsquo;t have an account&#63; Register."
+msgstr "Нямате акаунт&#63; Регистрирайте се."
+
+#: wpg-framework/account/nav.php:4
+#: wpg-framework/account/topnav.php:4
+#@ WPGroupbuy
+msgid "Dashboard"
+msgstr ""
+
+#: wpg-framework/account/nav.php:7
+#: wpg-framework/account/topnav.php:6
+#: wpg-framework/inc/account-sidebar.php:19
+#: wpg-framework/inc/home-navigation.php:61
+#: wpg-framework/inc/navigation.php:62
+#@ WPGroupbuy
+msgid "My Vouchers"
+msgstr "Моите ваучери"
+
+#: wpg-framework/account/nav.php:10
+#@ WPGroupbuy
+msgid "Business"
+msgstr "Бизнес"
+
+#: wpg-framework/account/nav.php:14
+#: wpg-framework/inc/account-sidebar.php:59
+#@ WPGroupbuy
+msgid "Submit Deal"
+msgstr ""
+
+#: wpg-framework/account/register-contact-info.php:4
+#: wpg-framework/checkout/billing.php:3
+#@ WPGroupbuy
+msgid "Billing Information"
+msgstr "Данни за плащане"
+
+#: wpg-framework/account/register-user.php:3
+#@ WPGroupbuy
+msgid "Registration"
+msgstr "Регистрация"
+
+#: wpg-framework/account/register.php:2
+#@ WPGroupbuy
+msgid "Create a new account"
+msgstr "Създайте нов акаунт"
+
+#: wpg-framework/account/retrievepassword.php:4
+#@ WPGroupbuy
+msgid "Forgot Password"
+msgstr "Забравена парола"
+
+#: wpg-framework/account/retrievepassword.php:5
+#@ WPGroupbuy
+msgid "Please enter your username or the e-mail address you used when signing up."
+msgstr "Моля, напишете потребителското си име или e-mail адрес при достъп."
+
+#: wpg-framework/account/retrievepassword.php:15
+#@ WPGroupbuy
+msgid "Get Password"
+msgstr "Получете парола"
+
+#: wpg-framework/account/topnav.php:8
+#@ WPGroupbuy
+msgid "Your Business"
+msgstr "Вашият бизнес"
+
+#: wpg-framework/account/topnav.php:10
+#@ WPGroupbuy
+msgid "Submit New Deal"
+msgstr ""
+
+#: wpg-framework/account/topnav.php:16
+#@ WPGroupbuy
+msgid "Deposit"
+msgstr "Депозит"
+
+#: wpg-framework/account/topnav.php:25
+#@ WPGroupbuy
+msgid "Account Balance:"
+msgstr "Баланс в акаунта:"
+
+#: wpg-framework/account/topnav.php:30
+#@ WPGroupbuy
+msgid "Reward Points:"
+msgstr "Наградни точки:"
+
+#: wpg-framework/account/view.php:5
+#: wpg-framework/inc/home-navigation.php:59
+#: wpg-framework/inc/navigation.php:60
+#@ WPGroupbuy
+msgid "Your Account"
+msgstr "Твоят акаунт"
+
+#: wpg-framework/account/view.php:8
+#@ WPGroupbuy
+msgid "Email:"
+msgstr "Email:"
+
+#: wpg-framework/account/view.php:21
+#: wpg-framework/inc/home-navigation.php:60
+#: wpg-framework/inc/navigation.php:61
+#@ WPGroupbuy
+msgid "Business Account"
+msgstr "Бизнес акаунт"
+
+#: wpg-framework/account/view.php:24
+#@ WPGroupbuy
+msgid "Company Name:"
+msgstr "Име на компанията:"
+
+#: wpg-framework/account/view.php:25
+#@ WPGroupbuy
+msgid "Address:"
+msgstr "Адрес:"
+
+#: wpg-framework/account/view.php:26
+#@ WPGroupbuy
+msgid "Phone:"
+msgstr "Телефон:"
+
+#: wpg-framework/account/view.php:27
+#@ WPGroupbuy
+msgid "Website:"
+msgstr "Уеб сайт:"
+
+#: wpg-framework/account/view.php:28
+#@ WPGroupbuy
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: wpg-framework/account/view.php:29
+#@ WPGroupbuy
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: wpg-framework/account/view.php:30
+#@ WPGroupbuy
+msgid "Business Category:"
+msgstr "Бизнес категория:"
+
+#: wpg-framework/account/view.php:36
+#@ WPGroupbuy
+msgid "Your Business Description"
+msgstr "Описание на Вашия бизнес"
+
+#: wpg-framework/account/view.php:45
+#: wpg-framework/merchant/dashboard.php:128
+#@ WPGroupbuy
+msgid "Are you a business owner?"
+msgstr "Вие ли сте собственика на бизнеса?"
+
+#: wpg-framework/account/view.php:45
+#@ WPGroupbuy
+msgid "Register your business now."
+msgstr "Регистрирайте бизнеса си днес."
+
+#: wpg-framework/account/view.php:69
+#@ WPGroupbuy
+msgid "Recent Purchases"
+msgstr "Скорошни покупки"
+
+#: wpg-framework/account/view.php:86
+#: wpg-framework/account/vouchers.php:44
+#@ WPGroupbuy
+msgid "Voucher"
+msgstr "Ваучер"
+
+#: wpg-framework/account/view.php:87
+#: wpg-framework/account/vouchers.php:46
+#: wpg-framework/checkout/order-confirmation.php:114
+#: wpg-framework/merchant/dashboard.php:75
+#@ WPGroupbuy
+msgid "Status"
+msgstr "Статус"
+
+#: wpg-framework/account/view.php:88
+#: wpg-framework/account/vouchers.php:47
+#: wpg-framework/checkout/order-confirmation.php:115
+#: wpg-framework/checkout/order-confirmation.php:150
+#@ WPGroupbuy
+msgid "Download"
+msgstr "Свали"
+
+#: wpg-framework/account/view.php:89
+#: wpg-framework/account/vouchers.php:45
+#: wpg-framework/checkout/order-confirmation.php:116
+#@ WPGroupbuy
+msgid "Expires"
+msgstr "Изтича"
+
+#: wpg-framework/account/view.php:111
+#: wpg-framework/account/vouchers.php:108
+#@ WPGroupbuy
+msgid "From: "
+msgstr "От:"
+
+#: wpg-framework/account/view.php:118
+#: wpg-framework/account/vouchers.php:121
+#: wpg-framework/checkout/order-confirmation.php:130
+#@ WPGroupbuy
+msgid "Shipped"
+msgstr "Пратено"
+
+#: wpg-framework/account/view.php:121
+#: wpg-framework/account/vouchers.php:124
+#: wpg-framework/checkout/order-confirmation.php:133
+#, php-format
+#@ WPGroupbuy
+msgid "Used %s"
+msgstr "Използван/и%s"
+
+#: wpg-framework/account/view.php:124
+#: wpg-framework/account/vouchers.php:127
+#: wpg-framework/checkout/order-confirmation.php:137
+#@ WPGroupbuy
+msgid "Mark as used"
+msgstr "Маркирай като използван/и"
+
+#: wpg-framework/account/view.php:131
+#@ WPGroupbuy
+msgid "Redeemed."
+msgstr "Изкупени."
+
+#: wpg-framework/account/view.php:160
+#@ WPGroupbuy
+msgid "You have not purchased any "
+msgstr "Не сте поръчали нито един"
+
+#: wpg-framework/account/view.php:160
+#@ WPGroupbuy
+msgid "Browse Active Deals"
+msgstr "Разгледайте активните сделки"
+
+#: wpg-framework/account/view.php:160
+#: wpg-framework/addons/options/template-tags.php:150
+#@ WPGroupbuy
+msgid "Deals"
+msgstr "Сделки"
+
+#: wpg-framework/account/vouchers.php:23
+#@ WPGroupbuy
+msgid "View All"
+msgstr "Вижте всички"
+
+#: wpg-framework/account/vouchers.php:26
+#@ WPGroupbuy
+msgid "Active Vouchers"
+msgstr "Активни ваучери"
+
+#: wpg-framework/account/vouchers.php:29
+#@ WPGroupbuy
+msgid "Used Vouchers"
+msgstr "Използвани ваучери"
+
+#: wpg-framework/account/vouchers.php:32
+#@ WPGroupbuy
+msgid "Expired Vouchers"
+msgstr "Изтекли ваучери"
+
+#: wpg-framework/account/vouchers.php:43
+#: wpg-framework/merchant/dashboard.php:76
+#@ WPGroupbuy
+msgid "Deal"
+msgstr "Сделка"
+
+#: wpg-framework/account/vouchers.php:132
+#: wpg-framework/checkout/order-confirmation.php:147
+#@ WPGroupbuy
+msgid "Redeemed"
+msgstr "Изкупени"
+
+#: wpg-framework/account/vouchers.php:143
+#@ WPGroupbuy
+msgid "No vouchers found."
+msgstr "Не са намерени ваучери."
+
+#: wpg-framework/account/vouchers.php:158
+#@ WPGroupbuy
+msgid "<span class=\"meta-nav\">&larr;</span> Older purchases"
+msgstr "<span class=\"meta-nav\">&larr;</span> По-стари поръчки"
+
+#: wpg-framework/account/vouchers.php:162
+#@ WPGroupbuy
+msgid "Latest purchases <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Най-нови поръчки <span class=\"meta-nav\">&rarr;</span>"
+
+#: wpg-framework/addons/deal-meta/custom-deal-meta.php:37
+#@ default
+msgid "Featured Image"
+msgstr ""
+
+#: wpg-framework/addons/deal-meta/views/meta_box.php:3
+#@ default
+msgid "Featured Content"
+msgstr ""
+
+#: wpg-framework/addons/deal-meta/views/meta_box.php:3
+#@ WPGroupbuy
+msgid "Replace deal thumbnail area with this featured content. You can use HTML code or you can install image slideshow plugin and insert shortcodes here. Remember to set size image 475x475 px"
+msgstr ""
+
+#: wpg-framework/addons/facebook/facebook.class.php:98
+#@ WPGroupbuy
+msgid "Logout"
+msgstr "Излез"
+
+#: wpg-framework/addons/facebook/facebook.class.php:202
+#@ default
+msgid "Facebook Connect"
+msgstr ""
+
+#: wpg-framework/addons/facebook/facebook.class.php:207
+#@ default
+msgid "Facebook App ID"
+msgstr ""
+
+#: wpg-framework/addons/facebook/facebook.class.php:208
+#@ default
+msgid "Facebook Secret"
+msgstr ""
+
+#: wpg-framework/addons/facebook/facebook.class.php:209
+#@ default
+msgid "Redirect to this URL after Registration"
+msgstr ""
+
+#: wpg-framework/addons/facebook/facebook.class.php:213
+#@ default
+msgid "Allow visitors login to your site without registration. You need to <a href=\"https://developers.facebook.com/apps\" target=\"_blank\">create a Facebook App</a> and enter information on below forms:"
+msgstr ""
+
+#: wpg-framework/addons/facebook/facebook.class.php:295
+#@ WPGroupbuy
+msgid "<strong>Facebook Connect Error:</strong> "
+msgstr "<strong>Facebook Connect Error:</strong> "
+
+#: wpg-framework/addons/options/template-tags.php:153
+#@ WPGroupbuy
+msgid "Current Deals"
+msgstr "Настоящи сделки"
+
+#: wpg-framework/addons/options/template-tags.php:219
+#: wpg-framework/addons/options/template-tags.php:265
+#@ WPGroupbuy
+msgid "Choose city"
+msgstr "Изберете град"
+
+#: wpg-framework/addons/options/theme-options.php:86
+#, php-format
+#@ default
+msgid "%s Options"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:86
+#@ default
+msgid "Theme Options"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:206
+#@ WPGroupbuy
+msgid "WPG Color Styling"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:211
+#@ WPGroupbuy
+msgid "WPG Font Styling"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:216
+#@ WPGroupbuy
+msgid "WPG Misc. Theme Styling"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:241
+#: wpg-framework/addons/options/theme-options.php:849
+#@ WPGroupbuy
+msgid "Background Color"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:245
+#@ WPGroupbuy
+msgid "Text Color"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:248
+#@ WPGroupbuy
+msgid "Color"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:507
+#, php-format
+#@ default
+msgid "By registering you agree to the <a href=\"%s\">Terms and Conditions</a> and <a href=\"%s\">Privacy Policy</a>."
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:509
+#, php-format
+#@ default
+msgid "By registering you agree to the <a href=\"%s\">Terms and Conditions</a>."
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:634
+#@ default
+msgid "Terms and Conditions Page"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:635
+#@ default
+msgid "Privacy Policy Page"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:636
+#@ default
+msgid "Featured Deals Category"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:637
+#@ default
+msgid "Merchant can change deal status?"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:642
+#@ default
+msgid "How do you want to show Deals?"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:645
+#@ default
+msgid "Footer Scripts"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:646
+#@ default
+msgid "Empty Deals Content"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:647
+#@ default
+msgid "Enable Responsive"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:648
+#@ default
+msgid "Enable RTL"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:653
+#@ default
+msgid "WPGroupbuy Theme Customizations"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:665
+#@ default
+msgid "Theme Customization"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:666
+#@ default
+msgid "Custom CSS"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:667
+#@ default
+msgid "Website Logo"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:668
+#@ default
+msgid "Background Image"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:693
+#@ WPGroupbuy
+msgid "Settings Reset"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:739
+#@ default
+msgid "Add your custom CSS Style here"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:744
+#@ default
+msgid "Copy URL of image here or click upload image button below. To remove image, just delete URL path on text field and save changes"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:755
+#@ default
+msgid "You can add Google Analytics, custom javascript here"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:767
+#: wpg-framework/addons/options/theme-options.php:790
+#: wpg-framework/addons/options/theme-options.php:794
+#: wpg-framework/addons/options/theme-options.php:798
+#@ default
+msgid "-- Select --"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:768
+#@ default
+msgid "Redirect empty deals page to a page you choose above"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:774
+#@ default
+msgid "Check to enable responsive version that supports mobile devices"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:780
+#@ default
+msgid "Check to enable Right-to-Left language support"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:785
+#: wpg-framework/addons/subscription/subscriptions.php:171
+#: wpg-framework/addons/timthumb/thumbnails.php:114
+#@ default
+msgid "Enable"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:786
+#@ default
+msgid "Allow merchant change status (Publish/Pending) of their own deal. If you enable this, merchant can submit deal without approved by admin."
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:803
+#, php-format
+#@ default
+msgid "Customize the theme by changing the colors below. Customize the background color and image via <a href=\"%s\">Appearance > Background</a>."
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:817
+#@ WPGroupbuy
+msgid "Custom Flavor"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:853
+#@ WPGroupbuy
+msgid "Background Image URL"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:866
+#@ WPGroupbuy
+msgid "Background Image Repeat"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:868
+#@ WPGroupbuy
+msgid "Tile"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:869
+#@ WPGroupbuy
+msgid "Horizontal"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:870
+#@ WPGroupbuy
+msgid "Vertical"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:871
+#: wpg-framework/addons/subscription/list-services/NoService.class.php:24
+#@ WPGroupbuy
+#@ default
+msgid "None"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:875
+#@ WPGroupbuy
+msgid "Logo Image URL"
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:915
+#@ default
+msgid "Show deals for everyone, guest can buy deals."
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:916
+#@ default
+msgid "Visitor can see the deal but they need to login to get more details."
+msgstr ""
+
+#: wpg-framework/addons/options/theme-options.php:917
+#@ default
+msgid "Show deals for membership only."
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/ConstantContact.class.php:37
+#@ default
+msgid "ConstantContact"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/ConstantContact.class.php:116
+#@ default
+msgid "ConstantContact Subscription"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/ConstantContact.class.php:119
+#: wpg-framework/checkout/login.php:2
+#: wpg-framework/inc/home-navigation.php:35
+#: wpg-framework/inc/navigation.php:36
+#@ default
+#@ WPGroupbuy
+msgid "Login"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/ConstantContact.class.php:120
+#@ default
+msgid "Password"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/Custom.class.php:24
+#@ default
+msgid "Custom Form"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/Infusionsoft.class.php:37
+#@ default
+msgid "Infusionsoft (beta)"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/Infusionsoft.class.php:138
+#@ default
+msgid "Inufusionsoft Subscription"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/Infusionsoft.class.php:141
+#: wpg-framework/addons/subscription/list-services/Infusionsoft.class.php:142
+#@ default
+msgid "App Name"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/Infusionsoft.class.php:143
+#@ default
+msgid "App Key"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/Infusionsoft.class.php:156
+#@ default
+msgid "How to find your API Key? <a href=\"http://ug.infusionsoft.com/article/AA-00442/0/How-do-I-enable-the-Infusionsoft-API-and-generate-an-API-Key.html\" target=\"_blank\">Click here</a>."
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/Infusionsoft.class.php:168
+#@ default
+msgid "\tInfusionsoft Tag or Action ID"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/MailChimp.class.php:135
+#@ default
+msgid "MailChimp"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/MailChimp.class.php:247
+#@ default
+msgid "MailChimp Subscription Settings"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/MailChimp.class.php:255
+#@ default
+msgid "API Key"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/MailChimp.class.php:256
+#@ default
+msgid "Mailing List"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/MailChimp.class.php:257
+#@ default
+msgid "Location Group"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/MailChimp.class.php:258
+#@ default
+msgid "Double Opt-in"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/MailChimp.class.php:259
+#@ default
+msgid "Send Welcome Message"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/MailChimp.class.php:317
+#@ default
+msgid "Subscriptions"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/MailChimp.class.php:350
+#@ default
+msgid "How to find your API Key? <a href=\"http://kb.mailchimp.com/article/where-can-i-find-my-api-key\" target=\"_blank\">Click here</a>."
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/MailChimp.class.php:369
+#@ WPGroupbuy
+msgid "No lists were found using that API key."
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/MailChimp.class.php:390
+#@ WPGroupbuy
+msgid "No groups were found under the list selected above."
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/MailChimp.class.php:410
+#: wpg-framework/addons/subscription/list-services/MailChimp.class.php:414
+#@ default
+msgid "No"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/MailChimp.class.php:411
+#: wpg-framework/addons/subscription/list-services/MailChimp.class.php:415
+#@ default
+msgid "Yes"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/mc-views/account-prefs.php:2
+#@ WPGroupbuy
+msgid "Get the latest Deals"
+msgstr ""
+
+#: wpg-framework/addons/subscription/list-services/mc-views/account-prefs.php:7
+#@ WPGroupbuy
+msgid "Select Locations"
+msgstr "Изберете местоположение"
+
+#: wpg-framework/addons/subscription/list-services/mc-views/account-subscriptions.php:10
+#@ WPGroupbuy
+msgid "Email Subscription: "
+msgstr "Email абонамент:"
+
+#: wpg-framework/addons/subscription/list-services/utilities/ctct.class.php:338
+#, php-format
+#@ WPGroupbuy
+msgid "Contact %s Added."
+msgstr "Контактът %s добавен."
+
+#: wpg-framework/addons/subscription/list-services/utilities/ctct.class.php:346
+#@ WPGroupbuy
+msgid "Welcome back!"
+msgstr "Добре дошли отново!"
+
+#: wpg-framework/addons/subscription/list-services/utilities/ctct.class.php:349
+#@ WPGroupbuy
+msgid "Invalid Email Address."
+msgstr "Невалиден e-mail адрес."
+
+#: wpg-framework/addons/subscription/subscriptions.php:33
+#@ default
+msgid "Email Subscription Settings"
+msgstr ""
+
+#: wpg-framework/addons/subscription/subscriptions.php:33
+#@ default
+msgid "Email Subscription"
+msgstr ""
+
+#: wpg-framework/addons/subscription/subscriptions.php:117
+#, php-format
+#@ WPGroupbuy
+msgid "Your email %s has been added."
+msgstr "Вашият e-mail %s бе добавен."
+
+#: wpg-framework/addons/subscription/subscriptions.php:120
+#@ WPGroupbuy
+msgid "Thank You."
+msgstr "Благодарим."
+
+#: wpg-framework/addons/subscription/subscriptions.php:155
+#@ default
+msgid "Select Service"
+msgstr ""
+
+#: wpg-framework/addons/subscription/subscriptions.php:156
+#@ default
+msgid "Redirect after signup"
+msgstr ""
+
+#: wpg-framework/addons/subscription/subscriptions.php:157
+#@ default
+msgid "No City Redirection"
+msgstr ""
+
+#: wpg-framework/addons/subscription/subscriptions.php:158
+#@ default
+msgid "No City text"
+msgstr ""
+
+#: wpg-framework/addons/subscription/subscriptions.php:159
+#@ default
+msgid "Show subscription form on registration page?"
+msgstr ""
+
+#: wpg-framework/addons/subscription/subscriptions.php:161
+#@ default
+msgid "Custom HTML subscription form"
+msgstr ""
+
+#: wpg-framework/addons/subscription/subscriptions.php:163
+#@ default
+msgid "Subscription lightbox"
+msgstr ""
+
+#: wpg-framework/addons/subscription/subscriptions.php:172
+#@ default
+msgid "Show Subscription Lightbox for your site."
+msgstr ""
+
+#: wpg-framework/addons/subscription/subscriptions.php:191
+#: wpg-framework/addons/subscription/subscriptions.php:208
+#@ default
+msgid "* Default"
+msgstr ""
+
+#: wpg-framework/addons/subscription/subscriptions.php:192
+#@ default
+msgid "Choose page to redirect after visitors choose city"
+msgstr ""
+
+#: wpg-framework/addons/subscription/subscriptions.php:197
+#@ default
+msgid "Show subscription form."
+msgstr ""
+
+#: wpg-framework/addons/subscription/subscriptions.php:198
+#@ default
+msgid "Show subscription form (with checked options)."
+msgstr ""
+
+#: wpg-framework/addons/subscription/subscriptions.php:199
+#@ default
+msgid "Don't show."
+msgstr ""
+
+#: wpg-framework/addons/subscription/subscriptions.php:204
+#@ default
+msgid "The text for visitors who cannot see their city"
+msgstr ""
+
+#: wpg-framework/addons/subscription/subscriptions.php:209
+#@ default
+msgid "Choose page to redirect if no city selected"
+msgstr ""
+
+#: wpg-framework/addons/subscription/subscriptions.php:226
+#@ default
+msgid " Notify me of future deals from"
+msgstr ""
+
+#: wpg-framework/addons/subscription/subscriptions.php:241
+#@ default
+msgid " Notify me of future deals and updates."
+msgstr ""
+
+#: wpg-framework/addons/subscription/template-tags.php:22
+#@ WPGroupbuy
+msgid "Get new deals by email"
+msgstr "Получете нови сделки по e-mail"
+
+#: wpg-framework/addons/subscription/template-tags.php:23
+#@ WPGroupbuy
+msgid "Enter your email"
+msgstr "Напишете Вашият e-mail"
+
+#: wpg-framework/addons/timthumb/thumbnails.php:98
+#@ default
+msgid "Thumbnails"
+msgstr ""
+
+#: wpg-framework/addons/timthumb/thumbnails.php:105
+#@ default
+msgid "Use TimThumb resizing"
+msgstr ""
+
+#: wpg-framework/addons/timthumb/thumbnails.php:106
+#@ default
+msgid "Resize Quality"
+msgstr ""
+
+#: wpg-framework/addons/timthumb/thumbnails.php:107
+#@ default
+msgid "Zoom Crop"
+msgstr ""
+
+#: wpg-framework/addons/timthumb/thumbnails.php:108
+#@ default
+msgid "Crop Alignment"
+msgstr ""
+
+#: wpg-framework/addons/timthumb/thumbnails.php:109
+#@ default
+msgid "Sharpen"
+msgstr ""
+
+#: wpg-framework/addons/timthumb/thumbnails.php:110
+#@ default
+msgid "Crop Background Color"
+msgstr ""
+
+#: wpg-framework/addons/timthumb/thumbnails.php:115
+#@ default
+msgid "Enabling this will allow your thumbnails to be cropped and resized by Timbthumb"
+msgstr ""
+
+#: wpg-framework/addons/timthumb/thumbnails.php:120
+#@ default
+msgid "The allowed values are between 0 and 100"
+msgstr ""
+
+#: wpg-framework/addons/timthumb/thumbnails.php:125
+#@ default
+msgid "Use below value:<br/>0: Resize to Fit specified dimensions (no cropping)<br/>1: Crop and resize to best fit the dimensions (default behaviour)<br/>2: Resize proportionally to fit entire image into specified dimensions, and add borders if required.<br/>3: Resize proportionally adjusting size of scaled image so there are no borders gaps."
+msgstr ""
+
+#: wpg-framework/addons/timthumb/thumbnails.php:126
+#@ default
+msgid "For more information, <a href=\"http://www.binarymoon.co.uk/demo/timthumb-zoom-crop/\" target=\"_blank\">click here</a>."
+msgstr ""
+
+#: wpg-framework/addons/timthumb/thumbnails.php:131
+#@ default
+msgid "Use below value:<br/>Leaving blank or using a '0' will force the alignment to the center<br/><strong>c</strong> : position in the center (this is the default)<br/><strong>t</strong> : align top<br/><strong>tr</strong> : align top right<br/><strong>tl</strong> : align top left<br/><strong>b</strong> : align bottom<br/><strong>br</strong> : align bottom right<br/><strong>bl</strong> : align bottom left<br/><strong>l</strong> : align left</br><strong>r</strong> : align right."
+msgstr ""
+
+#: wpg-framework/addons/timthumb/thumbnails.php:136
+#@ default
+msgid "Use below value:<br/>0: The image no sharpening<br/>1: to sharpen the photo"
+msgstr ""
+
+#: wpg-framework/addons/timthumb/thumbnails.php:141
+#@ default
+msgid "Change background color. Most used when changing the zoom and crop settings, which in turn can add borders to the image. Use hexadecimal colour value, ex: #FFFFFF"
+msgstr ""
+
+#: wpg-framework/addons/translate/translator.php:13
+#@ default
+msgid "Quick Translator"
+msgstr ""
+
+#: wpg-framework/addons/translate/translator.php:99
+#@ default
+msgid "Original Text:"
+msgstr ""
+
+#: wpg-framework/addons/translate/translator.php:100
+#@ default
+msgid "Translated Text:"
+msgstr ""
+
+#: wpg-framework/addons/translate/translator.php:113
+#@ default
+msgid "Add"
+msgstr ""
+
+#: wpg-framework/cart.php:12
+#: wpg-framework/inc/account-sidebar.php:29
+#@ WPGroupbuy
+msgid "My Cart"
+msgstr "Моята количка"
+
+#: wpg-framework/cart.php:24
+#@ WPGroupbuy
+msgid "Keep Shopping &#8594;"
+msgstr "Продължи с пазаруването &#8594;"
+
+#: wpg-framework/checkout/billing-review.php:3
+#@ WPGroupbuy
+msgid "Your Billing Information"
+msgstr "Вашите данни за плащане"
+
+#: wpg-framework/checkout/billing-review.php:8
+#: wpg-framework/checkout/shipping-review.php:8
+#@ default
+msgid "first_name"
+msgstr ""
+
+#: wpg-framework/checkout/billing-review.php:8
+#: wpg-framework/checkout/shipping-review.php:8
+#@ default
+msgid "last_name"
+msgstr ""
+
+#: wpg-framework/checkout/billing-review.php:11
+#: wpg-framework/checkout/shipping-review.php:11
+#@ WPGroupbuy
+msgid "Address"
+msgstr "Адрес"
+
+#: wpg-framework/checkout/cart.php:21
+#: wpg-framework/checkout/cart.php:25
+#@ default
+msgid "data"
+msgstr ""
+
+#: wpg-framework/checkout/cart.php:24
+#@ default
+msgid "label"
+msgstr ""
+
+#: wpg-framework/checkout/credit-card-review.php:3
+#@ WPGroupbuy
+msgid "Your Payment Information"
+msgstr "Вашата информация за плащане"
+
+#: wpg-framework/checkout/credit_card.php:13
+#@ WPGroupbuy
+msgid "Payment Information"
+msgstr "Информация за плащане"
+
+#: wpg-framework/checkout/credit_card.php:28
+#@ WPGroupbuy
+msgid "Rewards Point/Account Balance"
+msgstr "Наградни точни/баланс на акаунта"
+
+#: wpg-framework/checkout/gifting-review.php:2
+#@ WPGroupbuy
+msgid "Gift Recipient:"
+msgstr "Получател на подарък:"
+
+#: wpg-framework/checkout/gifting-review.php:2
+#, php-format
+#@ WPGroupbuy
+msgid "We will send your message to <a href=#>%s</a> with instructions for redeeming this gift."
+msgstr "Ще ви пратим съобщение до <a href=#>%s</a> с инструкции за осребряването на подаръка."
+
+#: wpg-framework/checkout/gifting.php:4
+#@ WPGroupbuy
+msgid "Gift Options"
+msgstr "Опции за подаръци"
+
+#: wpg-framework/checkout/login-or-register.php:21
+#@ WPGroupbuy
+msgid "Member Checkout"
+msgstr ""
+
+#: wpg-framework/checkout/login-or-register.php:24
+#@ WPGroupbuy
+msgid "Guest Checkout"
+msgstr ""
+
+#: wpg-framework/checkout/login-or-register.php:34
+#@ WPGroupbuy
+msgid "To continue login or signup an account, please uncheck the box on Guest Checkout tab"
+msgstr "За да продължите, моля влезте или се регистрирайте, махнете отметката в раздела за гости."
+
+#: wpg-framework/checkout/login-or-register.php:40
+#@ WPGroupbuy
+msgid "Check to enable Guest Checkout"
+msgstr ""
+
+#: wpg-framework/checkout/login.php:22
+#@ WPGroupbuy
+msgid "Keep Me Signed In"
+msgstr ""
+
+#: wpg-framework/checkout/login.php:31
+#@ WPGroupbuy
+msgid "Lost password&#63;"
+msgstr "Загубена парола&#63;"
+
+#: wpg-framework/checkout/order-confirmation.php:5
+#@ WPGroupbuy
+msgid "Your Order Summary"
+msgstr "Резюме на Вашата поръчка"
+
+#: wpg-framework/checkout/order-confirmation.php:6
+#@ WPGroupbuy
+msgid "Quantity"
+msgstr "Количество"
+
+#: wpg-framework/checkout/order-confirmation.php:7
+#@ WPGroupbuy
+msgid "Price"
+msgstr "Цена"
+
+#: wpg-framework/checkout/order-confirmation.php:13
+#@ WPGroupbuy
+msgid "Shipping"
+msgstr "Доставка"
+
+#: wpg-framework/checkout/order-confirmation.php:21
+#@ WPGroupbuy
+msgid "Tax"
+msgstr "Такса"
+
+#: wpg-framework/checkout/order-confirmation.php:28
+#@ WPGroupbuy
+msgid "Total"
+msgstr "Общо"
+
+#: wpg-framework/checkout/order-confirmation.php:34
+#@ WPGroupbuy
+msgid "Order Number"
+msgstr "Номер на поръчката"
+
+#: wpg-framework/checkout/order-confirmation.php:39
+#@ WPGroupbuy
+msgid "Credits Used"
+msgstr "Използвани кредити"
+
+#: wpg-framework/checkout/order-confirmation.php:90
+#@ WPGroupbuy
+msgid "Some of your order is pending."
+msgstr "Някой от Вашите поръчки са чакащи."
+
+#: wpg-framework/checkout/order-confirmation.php:90
+#: wpg-framework/checkout/order-confirmation.php:92
+#@ WPGroupbuy
+msgid "Save this url to retrieve your invoice(s) later:"
+msgstr "Запазете този адрес, за да изтеглите Вашите фактури по-късно:"
+
+#: wpg-framework/checkout/order-confirmation.php:101
+#@ WPGroupbuy
+msgid "Your Voucher Information"
+msgstr "Информация за Вашия ваучер"
+
+#: wpg-framework/checkout/order-confirmation.php:106
+#@ WPGroupbuy
+msgid "Deal:"
+msgstr "Сделка:"
+
+#: wpg-framework/checkout/order-confirmation.php:113
+#@ WPGroupbuy
+msgid "Code"
+msgstr "Код"
+
+#: wpg-framework/checkout/order-confirmation.php:150
+#@ WPGroupbuy
+msgid "Download Voucher"
+msgstr "Свалете ваучера"
+
+#: wpg-framework/checkout/order-confirmation.php:152
+#: wpg-framework/checkout/order-confirmation.php:169
+#: wpg-framework/merchant/dashboard.php:94
+#@ WPGroupbuy
+msgid "Pending"
+msgstr "В очакване на"
+
+#: wpg-framework/checkout/review-controls.php:3
+#, php-format
+#@ wpgroupbuy
+msgid "I agree to the <a target=\"_blank\" href=\"%s\" title=\"Terms and Conditions\">Terms and Conditions</a> and <a href=\"%s\" target=\"_blank\" title=\"Privacy Policy\">Privacy Policy</a>."
+msgstr ""
+
+#: wpg-framework/checkout/review-controls.php:6
+#@ WPGroupbuy
+msgid "Submit Order"
+msgstr "Поръчай"
+
+#: wpg-framework/checkout/shipping-review.php:3
+#: wpg-framework/checkout/shipping.php:4
+#@ WPGroupbuy
+msgid "Shipping Information"
+msgstr "Информация за доставка"
+
+#: wpg-framework/deals/dealshome.php:7
+#@ WPGroupbuy
+msgid "View more"
+msgstr "Виж още"
+
+#: wpg-framework/deals/dealshome.php:37
+#@ WPGroupbuy
+msgid "Visit"
+msgstr "Посети"
+
+#: wpg-framework/deals/featureddeal.php:8
+#: wpg-framework/inc/loop-item-future.php:35
+#: wpg-framework/inc/loop-item.php:35
+#@ WPGroupbuy
+msgid "Read"
+msgstr "Чети"
+
+#: wpg-framework/deals/featureddeal.php:32
+#, php-format
+#@ WPGroupbuy
+msgid "Only %s items left to buy"
+msgstr "Още %s налични"
+
+#: wpg-framework/deals/featureddeal.php:76
+#@ WPGroupbuy
+msgid "bought already!"
+msgstr "вече закупени!"
+
+#: wpg-framework/deals/no-deals.php:12
+#@ WPGroupbuy
+msgid "There are currently no deals for this location."
+msgstr "В момента няма сделки за тези места."
+
+#: wpg-framework/deals/single.php:55
+#@ WPGroupbuy
+msgid "available"
+msgstr "наличен"
+
+#: wpg-framework/deals/single.php:60
+#@ WPGroupbuy
+msgid "It's Free"
+msgstr "Безплатно е"
+
+#: wpg-framework/deals/single.php:117
+#@ WPGroupbuy
+msgid "More offer"
+msgstr "Още оферти"
+
+#: wpg-framework/deals/single.php:128
+#, php-format
+#@ WPGroupbuy
+msgid "%s more to get the deal"
+msgstr "%s още за да се възползвате"
+
+#: wpg-framework/deals/single.php:128
+#@ WPGroupbuy
+msgid "The deal is on!"
+msgstr "Сделката е активна!"
+
+#: wpg-framework/deals/single.php:150
+#, php-format
+#@ WPGroupbuy
+msgid "This deal reached the maximum amount of %s buyers."
+msgstr "Сделката достигна максимума от %s купувачи."
+
+#: wpg-framework/deals/single.php:152
+#@ WPGroupbuy
+msgid "You missed this deal!"
+msgstr "Изпусна сделката!"
+
+#: wpg-framework/deals/single.php:154
+#, php-format
+#@ WPGroupbuy
+msgid "This deal failed to reach the minimum %s amount of buyers."
+msgstr "Сделката не може да достигне минимума от %s купувачи."
+
+#: wpg-framework/deals/single.php:214
+#@ WPGroupbuy
+msgid "Highlights:"
+msgstr "Акценти:"
+
+#: wpg-framework/deals/single.php:223
+#@ WPGroupbuy
+msgid "Fine Print:"
+msgstr "Принтирай:"
+
+#: wpg-framework/deals/single.php:246
+#@ WPGroupbuy
+msgid "Deal Information"
+msgstr "Информация за сделката"
+
+#: wpg-framework/deals/single.php:254
+#@ WPGroupbuy
+msgid "This deal offer by"
+msgstr "Сделката се предлага от"
+
+#: wpg-framework/deals/single.php:270
+#: wpg-framework/inc/loop-merchant.php:11
+#: wpg-framework/merchant/business.php:47
+#@ WPGroupbuy
+msgid "Facebook"
+msgstr "Facebook"
+
+#: wpg-framework/deals/single.php:275
+#: wpg-framework/inc/loop-merchant.php:14
+#: wpg-framework/merchant/business.php:51
+#@ WPGroupbuy
+msgid "Twitter"
+msgstr "Twitter"
+
+#: wpg-framework/deals/single.php:283
+#: wpg-framework/inc/loop-merchant.php:24
+#@ WPGroupbuy
+msgid "Read More"
+msgstr "Прочети повече"
+
+#: wpg-framework/deals/single.php:304
+#@ WPGroupbuy
+msgid "Where to use voucher?"
+msgstr "Къде да ползвам ваучера?"
+
+#: wpg-framework/deals/single.php:330
+#@ WPGroupbuy
+msgid "Discuss This Deal"
+msgstr "Дискутирай сделката"
+
+#: wpg-framework/inc/account-sidebar.php:8
+#: wpg-framework/inc/home-navigation.php:150
+#: wpg-framework/inc/navigation.php:145
+#@ WPGroupbuy
+msgid "Account Menu"
+msgstr "Акаунт меню"
+
+#: wpg-framework/inc/account-sidebar.php:14
+#@ WPGroupbuy
+msgid "Edit Account Profile"
+msgstr "Редактирай профила си"
+
+#: wpg-framework/inc/account-sidebar.php:24
+#@ WPGroupbuy
+msgid "Credit Report"
+msgstr "Кредити"
+
+#: wpg-framework/inc/account-sidebar.php:43
+#@ WPGroupbuy
+msgid "Merchant Menu"
+msgstr "Меню на търговеца"
+
+#: wpg-framework/inc/account-sidebar.php:49
+#@ WPGroupbuy
+msgid "Business Dashboard"
+msgstr ""
+
+#: wpg-framework/inc/account-sidebar.php:54
+#@ WPGroupbuy
+msgid "Edit Business Profile"
+msgstr ""
+
+#: wpg-framework/inc/account-sidebar.php:65
+#@ WPGroupbuy
+msgid "View My Sales:"
+msgstr "Вижте продажбите си:"
+
+#: wpg-framework/inc/account-sidebar.php:80
+#@ WPGroupbuy
+msgid "Admin Menu"
+msgstr ""
+
+#: wpg-framework/inc/account-sidebar.php:86
+#@ WPGroupbuy
+msgid "WordPress Dashboard"
+msgstr ""
+
+#: wpg-framework/inc/account-sidebar.php:91
+#@ WPGroupbuy
+msgid "All Accounts Report"
+msgstr ""
+
+#: wpg-framework/inc/account-sidebar.php:96
+#@ WPGroupbuy
+msgid "All Sales Report"
+msgstr ""
+
+#: wpg-framework/inc/account-sidebar.php:101
+#@ WPGroupbuy
+msgid "All Credit Payments Report"
+msgstr ""
+
+#: wpg-framework/inc/home-navigation.php:12
+#: wpg-framework/inc/navigation.php:12
+#@ WPGroupbuy
+msgid "Menu"
+msgstr ""
+
+#: wpg-framework/inc/home-navigation.php:27
+#: wpg-framework/inc/navigation.php:27
+#@ WPGroupbuy
+msgid "Register"
+msgstr "Регистрирай се"
+
+#: wpg-framework/inc/home-navigation.php:41
+#: wpg-framework/inc/navigation.php:42
+#@ WPGroupbuy
+msgid "Login with Facebook"
+msgstr "Регистрирайте се с Facebook"
+
+#: wpg-framework/inc/home-navigation.php:45
+#: wpg-framework/inc/home-navigation.php:78
+#: wpg-framework/inc/navigation.php:46
+#: wpg-framework/inc/navigation.php:79
+#@ WPGroupbuy
+msgid "Your Shopping Cart"
+msgstr "Вашата количка"
+
+#: wpg-framework/inc/home-navigation.php:63
+#: wpg-framework/inc/navigation.php:64
+#@ WPGroupbuy
+msgid "WP Admin"
+msgstr ""
+
+#: wpg-framework/inc/home-navigation.php:95
+#: wpg-framework/inc/navigation.php:94
+#@ WPGroupbuy
+msgid "Deals Menu"
+msgstr "Сделки"
+
+#: wpg-framework/inc/home-navigation.php:131
+#: wpg-framework/inc/navigation.php:125
+#@ WPGroupbuy
+msgid "Get the Latest Deals"
+msgstr "Получете сделки"
+
+#: wpg-framework/inc/home-navigation.php:152
+#: wpg-framework/inc/navigation.php:147
+#@ WPGroupbuy
+msgid "Category Menu"
+msgstr ""
+
+#: wpg-framework/inc/home-navigation.php:153
+#: wpg-framework/inc/navigation.php:148
+#@ WPGroupbuy
+msgid "Chose Location"
+msgstr "Изберете местоположение"
+
+#: wpg-framework/inc/loop-item-future.php:48
+#@ WPGroupbuy
+msgid "On"
+msgstr ""
+
+#: wpg-framework/inc/social-share.php:11
+#@ WPGroupbuy
+msgid "Get the great deal here"
+msgstr "Вземете най-добрата сделка тук"
+
+#: wpg-framework/inc/social-share.php:11
+#@ WPGroupbuy
+msgid "viaTweeter"
+msgstr ""
+
+#: wpg-framework/merchant/business.php:12
+#@ WPGroupbuy
+msgid "Back"
+msgstr "Назад"
+
+#: wpg-framework/merchant/business.php:35
+#@ WPGroupbuy
+msgid "Even More"
+msgstr "Дори повече"
+
+#: wpg-framework/merchant/business.php:39
+#@ WPGroupbuy
+msgid "Category:"
+msgstr "Категория:"
+
+#: wpg-framework/merchant/business.php:42
+#@ WPGroupbuy
+msgid "Links:"
+msgstr "Връзки:"
+
+#: wpg-framework/merchant/business.php:70
+#, php-format
+#@ WPGroupbuy
+msgid "Deals offered by %s"
+msgstr "Сделки предлагани от %s"
+
+#: wpg-framework/merchant/business.php:85
+#, php-format
+#@ WPGroupbuy
+msgid "There are no active deals for %s."
+msgstr "Няма активни сделки за %s."
+
+#: wpg-framework/merchant/businesses.php:10
+#@ WPGroupbuy
+msgid "Are you a business owner? Be the first one here, "
+msgstr "Вие сте собственик на бизнес? Бъдете първи тук,"
+
+#: wpg-framework/merchant/businesses.php:10
+#@ WPGroupbuy
+msgid "register your business today."
+msgstr "регистрирайте бизнеса си днес."
+
+#: wpg-framework/merchant/businesses.php:41
+#@ WPGroupbuy
+msgid "Merchant Types"
+msgstr ""
+
+#: wpg-framework/merchant/dashboard.php:48
+#@ WPGroupbuy
+msgid "Manage Your Deals"
+msgstr "Управлявайте сделките си"
+
+#: wpg-framework/merchant/dashboard.php:55
+#: wpg-framework/merchant/dashboard.php:124
+#@ WPGroupbuy
+msgid "No sales info."
+msgstr ""
+
+#: wpg-framework/merchant/dashboard.php:69
+#@ WPGroupbuy
+msgid "View Purchase History"
+msgstr "Вижте история на поръчките"
+
+#: wpg-framework/merchant/dashboard.php:77
+#@ WPGroupbuy
+msgid "Total Sold"
+msgstr "Тотална разпродажба"
+
+#: wpg-framework/merchant/dashboard.php:78
+#@ WPGroupbuy
+msgid "Published Date"
+msgstr "Дата на поръчка"
+
+#: wpg-framework/merchant/dashboard.php:79
+#@ WPGroupbuy
+msgid "Reports"
+msgstr "Доклади"
+
+#: wpg-framework/merchant/dashboard.php:90
+#@ WPGroupbuy
+msgid "Publish"
+msgstr "Публикувай"
+
+#: wpg-framework/merchant/dashboard.php:98
+#@ WPGroupbuy
+msgid "Default"
+msgstr ""
+
+#: wpg-framework/merchant/dashboard.php:104
+#@ WPGroupbuy
+msgid "Edit deal"
+msgstr "Промени сделката"
+
+#: wpg-framework/merchant/dashboard.php:106
+#@ WPGroupbuy
+msgid "Change status"
+msgstr "Промени статус"
+
+#: wpg-framework/merchant/dashboard.php:128
+#@ WPGroupbuy
+msgid "Register your business today."
+msgstr "Регистрирайте бизнеса си днес."
+
+#: wpg-framework/merchant/edit.php:2
+#@ WPGroupbuy
+msgid "Merchant Information"
+msgstr "Информация  за търговеца"
+
+#: wpg-framework/merchant/voucher-claim.php:15
+#@ WPGroupbuy
+msgid "Voucher Expired!"
+msgstr "Ваучерът е изтекъл!"
+
+#: wpg-framework/merchant/voucher-claim.php:17
+#@ WPGroupbuy
+msgid "Voucher marked claimed:"
+msgstr "Ваучерът е маркиран:"
+
+#: wpg-framework/merchant/voucher-claim.php:18
+#@ WPGroupbuy
+msgid "Redeemer Name:"
+msgstr "Име на купувача:"
+
+#: wpg-framework/merchant/voucher-claim.php:19
+#@ WPGroupbuy
+msgid "Redemption Date:"
+msgstr "Дата на закупуване:"
+
+#: wpg-framework/merchant/voucher-claim.php:20
+#@ WPGroupbuy
+msgid "Redemption Total:"
+msgstr "Общо:"
+
+#: wpg-framework/merchant/voucher-claim.php:21
+#@ WPGroupbuy
+msgid "Redemption Notes:"
+msgstr "Бележки:"
+
+#: wpg-framework/merchant/voucher-claim.php:78
+#@ WPGroupbuy
+msgid "Claimed"
+msgstr "Заявени"
+
+#: wpg-framework/purchase/order-tracking.php:1
+#@ WPGroupbuy
+msgid "Please enter your order number and billing city to tracking information of your purchase."
+msgstr "Моля, въведете Вашия номер на поръчката и града за доставка, за да проверим Вашата поръчка."
+
+#: wpg-framework/purchase/order-tracking.php:21
+#@ WPGroupbuy
+msgid "View Order"
+msgstr "Вижте поръчката"
+
+#: wpg-framework/report.php:23
+#@ WPGroupbuy
+msgid "csv download"
+msgstr "сваляне на csv"
+
+#: wpg-framework/widgets/recent-deals.php:11
+#: wpg-framework/widgets/related-deals.php:11
+#@ WPGroupbuy
+msgid "Price:"
+msgstr "Цена:"
+
+#: wpg-framework/widgets/recent-deals.php:16
+#: wpg-framework/widgets/related-deals.php:16
+#@ WPGroupbuy
+msgid "Purchase Unavailable"
+msgstr "Поръчката не е достъпна"
+

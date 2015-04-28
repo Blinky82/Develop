@@ -1,0 +1,240 @@
+/*
+Custom css style of http://themeforest.net/item/jobboard-responsive-job-resume-market-wordpress-theme/9321086
+*/
+ 
+
+.form-group.experience, .form-group.sallary {
+display:none;
+font-family: Helvetica, Arial,sans-serif;
+}
+.job-search-title {
+    font-family: Helvetica, Arial,sans-serif;
+    font-size: 27px;
+    font-weight: 700;
+    margin-bottom: 26px;
+}
+.jobboard-login-register .btn-header-login { 
+background: #2980B9;
+font-family: Helvetica, Arial,sans-serif;
+}
+.banner-caption {
+    height: 241px;
+    width: 100%;
+    background-color: #81BEF7;
+    color: #FFF;
+    font-family: Helvetica, Arial,sans-serif;
+}
+.btn-post-resume {
+    font-family: Helvetica, Arial,sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    background: none repeat scroll 0% 0% #2980B9;
+    color: #FFF;
+    padding: 10px;
+}
+.contact-information {
+    position: absolute;
+    width: 430px;
+    height: 230px;
+    background: none repeat scroll 0% 0% #2980B9;
+    color: #FFF;
+    top: 400px;
+    border-radius: 10px;
+    font-family: Helvetica, Arial,sans-serif;
+}
+.btn-send-contact-form {
+    color: #FFF;
+    font-size: 16px;
+    background: none repeat scroll 0% 0% #2980B9;
+    width: 150px;
+    font-family: Helvetica, Arial,sans-serif;
+}
+#main-menu .nav-menu li a {
+    font-family: Helvetica, Arial,sans-serif;
+    color: #000000;
+    font-weight: 300;
+    padding: 14px 0px;
+    border-bottom: 1px solid transparent;
+    transition: all 0.3s ease 0s;
+}
+.banner-caption .btn {
+    font-family: Helvetica, Arial,sans-serif;
+    color: #000000;
+    font-size: 20px;
+    font-weight: 700;
+    border: medium none;
+    padding: 11px 30px;
+}
+#job-search .text-label {
+    margin-bottom: 9px;
+    font-family: Helvetica, Arial,sans-serif;
+color: #000000;
+}
+#job-search-form label {
+    font-size: 18px;
+    font-weight: 400;
+    display: block;
+    font-family: Helvetica, Arial,sans-serif;
+}
+#job-search .text-label {
+    font-family: Helvetica, Arial,sans-serif;
+    color: #000000; 
+    margin-bottom: 9px;
+}
+.jobs-listing-title h3, .home-widget-title {
+    font-family: Helvetica, Arial,sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+}
+.widget a {
+    font-family: Helvetica, Arial,sans-serif;
+    text-decoration: none;
+}
+#jobs-listing ul li a {
+    font-family: Helvetica, Arial,sans-serif;
+    color: #000000;
+    padding: 5px 25px 6px;
+}
+.job-listing-name .job-listing-summary {
+    font-family: Helvetica, Arial,sans-serif;
+    font-size: 13px;
+    color: #000000;
+}
+.job-listing-name {
+font-family: Helvetica, Arial,sans-serif;
+    float: left;
+    width: 370px;
+    margin-left: 20px;
+    border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
+    padding: 0px 15px;
+    max-height: 80px;
+}
+.job-listing-name h4 {
+    font-family: Helvetica, Arial,sans-serif;
+    color: #000000;
+    margin: 0px;
+    padding: 9px 0px 0px;
+    font-size: 14px;
+    font-weight: 400;
+}
+.custom-button-widget-title {
+    font-family: Helvetica, Arial,sans-serif;
+    color: #000000;
+    font-weight: 400;
+    margin-top: 0px;
+}
+.job-listing-row {
+    font-family: Helvetica, Arial,sans-serif;
+    color: #000000;
+}
+.widget_jobboard_custom_button {
+    font-family: Helvetica, Arial,sans-serif;
+    color: #000000;
+    text-align: center;
+}
+h1, h2, h5, h6 {
+    font-family: Helvetica, Arial,sans-serif;
+    font-weight: 300;
+}
+
+.footer-widget-title {
+    font-family: Helvetica, Arial,sans-serif;
+    font-size: 18px;
+    color: #FFF;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font-weight: 400 !important;
+}
+#footer-widgets .textwidget {
+    font-family: Helvetica, Arial,sans-serif;
+    line-height: 22px;
+    padding-top: 3px;
+    font-size: 13px;
+}
+#footer-widgets ul li a {
+   font-family: Helvetica, Arial,sans-serif; 
+    color: #818181;
+    text-transform: uppercase;
+    font-size: 13px;
+    text-decoration: none;
+}
+label {
+     font-family: Helvetica, Arial,sans-serif; 
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+#footer-text {
+    font-family: Helvetica, Arial,sans-serif; 
+    margin-top: 25px;
+}
+#footer-query p {
+font-family: Helvetica, Arial,sans-serif; 
+    line-height: 24px;
+}
+.footer-query-contact {
+font-family: Helvetica, Arial,sans-serif;
+    font-size: 36px;
+    color: #000000;
+    padding-top: 23px;
+}
+.page-title {
+   font-family: Helvetica, Arial,sans-serif;
+    color: #000000; 
+    line-height: 104px;
+    margin: 0px;
+    font-size: 24px;
+    font-weight: 700;
+}
+#content p {
+    font-family: Helvetica, Arial,sans-serif;
+    line-height: 28px;
+}
+#contact-form label {
+    font-family: Helvetica, Arial,sans-serif;
+    color: #000000; 
+    font-size: 16px;
+    font-weight: normal;
+}
+body {
+    color: #000000;
+   font-family: Helvetica, Arial,sans-serif;
+}
+.frontend-form label {
+    font-family: Helvetica, Arial,sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    color: #000000;
+    margin-bottom: 3px;
+    display: block;
+}
+#login-form-wrapper { 
+    font-family: Helvetica, Arial,sans-serif;
+    color: #000000;
+background-color: #81BEF7;
+border-radius: 10px;
+padding: 40px 30px;
+width: 430px;
+}
+.job-detail-title {
+    font-family: Helvetica, Arial,sans-serif;
+    color: #000000;
+    font-size: 27px;
+    font-weight: 700;
+}
+.company-details {
+    font-family: Helvetica, Arial,sans-serif;
+    color: #000000;
+    float: left;
+    min-height: 60px;
+    line-height: 60px;
+    padding-left: 20px;
+}
+#job-detail {
+    font-family: Helvetica, Arial,sans-serif;
+    color: #000000;
+}
+
